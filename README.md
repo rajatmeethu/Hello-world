@@ -1,5 +1,12 @@
 # Hello-world
-Navigation<br>
-Content<br>
-aside<br>
-<img>D:\images\1.jpg</img>
+{
+"name":"mongooseEx',
+"version":"1.0.0.0",
+"description":"",
+"main":"app.js",
+"script":{
+"test":"echo\"error:no test specifier\"&&exit 1,
+}
+"auther":"",
+"lisence":"ISC",
+}
